@@ -3,7 +3,7 @@ const bot = new Discord.Client();
 
 const ytdl = require("ytdl-core");
 
-const token = 'NzE2MjgzNjEwMDgwMjE1MTIy.XtJjug.aTVa9Jt-smZKDNOdo1Rphy4fvn8';
+const token = 'NzE2MjgzNjEwMDgwMjE1MTIy.XtawDQ.Xro_he8zaH9ymuqvOkRkrO-wbBc';
 
 const PREFIX = 'evo '
 
