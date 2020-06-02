@@ -1,17 +1,16 @@
 {
-    "name": "evelution-bot",
-    "version": "1.0.1",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "start": "node index"
-    },
-    "author": "Stuwieee",
-    "license": "ISC",
-    "dependencies": {
-      "discord.js": "^11.6.4",
-      "opusscript": "0.0.6",
-      "ytdl-core": "^3.0.0"
-    }
+  "name": "evelution-bot",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Stuwieee",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^3.0.0"
   }
-  
+}
