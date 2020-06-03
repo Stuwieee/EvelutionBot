@@ -13,18 +13,16 @@ bot.on('ready', () =>{
     console.log('This bot is online!')
 })
 
-
-
 bot.on('message', msg=>{
-    if(msg.content.includes('robux' || 'ROBUX' || 'Robux')){
-        msg.reply('no go away');
-    }
-
+   
     let args = msg.content.substring(PREFIX.length).split(" ");
 
     switch(args[0]){
         case 'subscribe':
             msg.channel.send('Subscribe! https://bit.ly/3cnMn6M')
+            break;
+        case 'instagram':
+            msg.channel.send('Follow! https://bit.ly/2U58Hff')
             break;
 
         case 'play':
